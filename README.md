@@ -1,3 +1,3 @@
-# pixel_adventure
+# Pixel Plunge
 
-A new Flutter project.
+Join with us for a new adventure!
